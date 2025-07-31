@@ -32,6 +32,32 @@ Atualmente estou estudando e praticando com projetos próprios e contribuindo co
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" />
 </p>
+## 🛠️ Habilidades
+
+### 👨‍💻 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
+</p>
+
+### 🧠 Nível de Conhecimento (autoavaliação)
+
+| Tecnologia | Nível        | Progresso         |
+|------------|--------------|-------------------|
+| HTML       | Avançado | ██████████░░░░ 80% |
+| CSS        | Intermediário | █████████░░░░░ 70% |
+| JavaScript | Em aprendizado | ███████░░░░░░ 60% |
+| PHP        | Intermediário   | ██████░░░░░░░ 50% |
+| MySQL      | Intermediário  | ██████░░░░░░░ 50% |
+| Git/GitHub | Intermediário | █████████░░░░ 70% |
+
+---
+
+### 📚 Sempre estudando e praticando para evoluir!
 
 
 
