@@ -32,7 +32,7 @@ Atualmente estou estudando e praticando com projetos próprios e contribuindo co
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" />
 </p>
-## 🛠️ Habilidades
+
 
 ### 👨‍💻 Linguagens e Tecnologias
 
